@@ -19,4 +19,4 @@ Esto es una IA de voz, las instrucciones estan aqui mismo.
 7. Selecciona micro:bit y dale a donde sale esto ![](https://github.com/JaelD-OSCreator/Micro-IA/blob/main/Captura%20de%20pantalla%202024-11-17%20131022.png)
 
 8. Descarga scratch link, abrelo y vuelve a Scratch Modified o Stretch3 y cuando encuentre tu micro:bit lo conectas y ya esta
-![]()
+![](https://github.com/JaelD-OSCreator/Micro-IA/blob/main/Captura%20de%20pantalla%202024-11-17%20131801.png)
