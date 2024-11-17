@@ -6,4 +6,4 @@ Esto es una IA de voz, las instrucciones estan aqui mismo.
 
 2. Localiza los archivos y muevelos a una carpeta que puedas encontrar facilmente
 
-3. Ves al enlace siguiente:[https://stretch3.github.io/]()
+3. Ves al enlace siguiente: [Scratch modified](https://stretch3.github.io/)
